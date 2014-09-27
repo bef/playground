@@ -1,0 +1,9 @@
+# Site settings
+title: foo playground
+email: bef@example.com
+baseurl: "/playground" # the subpath of your site, e.g. /blog/
+#url: "https://bef.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
